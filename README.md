@@ -102,7 +102,7 @@ print("✅ All Models Ready!")
 
 ### 🌐 Step 7: Launch the Dashboard
 
-I have included a file called `05_interactive_demo.py` in the repository.
+I have included a file called `05_interactive_demo.py` in the notebooks folder of the repository.
 
 * Open that file
 * Copy all the code starting from **Line 13** (`import os, sys, io...`) to the end
