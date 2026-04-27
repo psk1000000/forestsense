@@ -1,0 +1,31 @@
+### Interpretation of the RAG Graph Overlay Image
+
+#### Panel 5: RAG Graph Overlay Image
+
+The RAG graph overlay image provides a visual representation of the forest adjacency relationships between the two time points (2021 and 2023) in the Sundarbans region. The nodes represent different forest patches, and the edges indicate the adjacency between these patches. The color coding helps to distinguish between different types of forest change:
+
+- **Unchanged Non-Forest**: Represented by black nodes.
+- **Stable Forest**: Represented by green nodes.
+- **Forest Loss**: Represented by red nodes.
+- **Forest Gain**: Represented by blue nodes.
+
+#### Spatial Metrics
+
+#### Quantitative Metrics
+
+- **Total Forest Area**: 31573.7 ha
+- **Forest Loss**: 3096.1 ha
+- **Forest Gain**: 6383.4 ha
+- **Net Change**: 3287.3 ha
+- **Fragmentation Index**: 0.636 (higher = more fragmented)
+- **Largest Patch Index (LPI)**: 0.490 (closer to 1.0 = contiguous)
+
+### Ecological Health
+
+#### Interpretation of Quantitative Metrics
+
+- **Total Forest Area**: The total forest area remains relatively stable at 31573.7 ha, indicating that the forest cover has not significantly changed.
+- **Forest Loss**: The forest loss is relatively low at 3096.1 ha, suggesting that the forest cover has not been significantly reduced.
+- **Forest Gain**: The forest gain is higher at 6383.4 ha, indicating that the forest cover has been significantly increased.
+- **Net Change**: The net change is positive at 3287.3 ha, indicating that the forest cover has increased by 3287.3 ha.
+- **

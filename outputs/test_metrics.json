@@ -1,0 +1,64 @@
+{
+  "OA": 88.287,
+  "kappa": 0.7775,
+  "mPrecision": 66.621,
+  "mRecall": 82.162,
+  "mF1": 70.919,
+  "mIoU": 58.565,
+  "weighted_F1": 89.188,
+  "weighted_IoU": 81.516,
+  "mF1_change_only": 51.748,
+  "mIoU_change_only": 34.944,
+  "change_F1": 51.748,
+  "change_IoU": 34.944,
+  "precision": {
+    "Unchanged Non-Forest": 95.025,
+    "Stable Forest": 93.48,
+    "Forest Loss": 42.452,
+    "Forest Gain": 35.529
+  },
+  "recall": {
+    "Unchanged Non-Forest": 78.995,
+    "Stable Forest": 94.336,
+    "Forest Loss": 75.209,
+    "Forest Gain": 80.108
+  },
+  "f1": {
+    "Unchanged Non-Forest": 86.272,
+    "Stable Forest": 93.906,
+    "Forest Loss": 54.271,
+    "Forest Gain": 49.225
+  },
+  "iou": {
+    "Unchanged Non-Forest": 75.858,
+    "Stable Forest": 88.513,
+    "Forest Loss": 37.241,
+    "Forest Gain": 32.648
+  },
+  "conf_matrix": [
+    [
+      5835402,
+      768511,
+      272545,
+      510554
+    ],
+    [
+      188842,
+      12421133,
+      185217,
+      371655
+    ],
+    [
+      53125,
+      47216,
+      343850,
+      13002
+    ],
+    [
+      63533,
+      50602,
+      8364,
+      493329
+    ]
+  ]
+}

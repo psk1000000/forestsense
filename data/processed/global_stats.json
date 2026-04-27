@@ -1,0 +1,83 @@
+{
+  "western_ghats": {
+    "total_patches": 625,
+    "class_dist": {
+      "Unchanged_NF": {
+        "count": 4459387,
+        "percentage": 10.89
+      },
+      "Stable_Forest": {
+        "count": 34836207,
+        "percentage": 85.05
+      },
+      "Forest_Loss": {
+        "count": 686989,
+        "percentage": 1.68
+      },
+      "Forest_Gain": {
+        "count": 977417,
+        "percentage": 2.39
+      }
+    },
+    "class_weights": [
+      0.3283630907535553,
+      0.04203380271792412,
+      2.131472587585449,
+      1.498130440711975
+    ]
+  },
+  "sundarbans": {
+    "total_patches": 825,
+    "class_dist": {
+      "Unchanged_NF": {
+        "count": 29109066,
+        "percentage": 53.84
+      },
+      "Stable_Forest": {
+        "count": 22081133,
+        "percentage": 40.84
+      },
+      "Forest_Loss": {
+        "count": 980676,
+        "percentage": 1.81
+      },
+      "Forest_Gain": {
+        "count": 1896325,
+        "percentage": 3.51
+      }
+    },
+    "class_weights": [
+      0.08447518199682236,
+      0.11136175692081451,
+      2.5074477195739746,
+      1.2967153787612915
+    ]
+  },
+  "saranda": {
+    "total_patches": 725,
+    "class_dist": {
+      "Unchanged_NF": {
+        "count": 17261252,
+        "percentage": 36.33
+      },
+      "Stable_Forest": {
+        "count": 27118495,
+        "percentage": 57.08
+      },
+      "Forest_Loss": {
+        "count": 1445396,
+        "percentage": 3.04
+      },
+      "Forest_Gain": {
+        "count": 1688457,
+        "percentage": 3.55
+      }
+    },
+    "class_weights": [
+      0.16805428266525269,
+      0.10696859657764435,
+      2.0069429874420166,
+      1.7180343866348267
+    ]
+  }
+}

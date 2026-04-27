@@ -1,0 +1,23 @@
+### Interpretation of the RAG Graph Overlay Image
+
+#### Panel 5: RAG Graph Overlay Image
+
+The RAG graph overlay image provides a visual representation of the forest adjacency relationships between the two time points (T1 and T2) in the Western Ghats region. The nodes in the graph represent different forest patches, and the edges represent the adjacency between these patches. The color coding of the nodes and edges helps in identifying the spatial structure of the forest change.
+
+#### Quantitative Metrics
+
+#### Total Forest Area: 57252.4 ha
+- **Forest Loss**: 1903.5 ha
+- **Forest Gain**: 1487.6 ha
+- **Net Change**: -415.9 ha
+- **Fragmentation Index**: 0.075 (higher = more fragmented)
+- **Largest Patch Index (LPI)**: 0.971 (closer to 1.0 = contiguous)
+
+#### Ecological Health
+
+#### **Total Forest Area**: The total forest area remains relatively stable at 57252.4 ha, indicating that the forest cover has not significantly changed over the two time points.
+- **Forest Loss**: The forest loss is relatively low at 1903.5 ha, suggesting that the forest cover has not been significantly reduced.
+- **Forest Gain**: The forest gain is also relatively low at 1487.6 ha, indicating that the forest cover has not been significantly increased.
+- **Net Change**: The net change in forest area is negative (-415.9 ha), which means that the forest cover has decreased by 415.9 ha over the two time points.
+- **Fragmentation Index**: The fragmentation index is relatively low at 0.075, indicating that the forest patches are relatively well-connected and not highly fragmented.
+- **Largest Patch Index (LPI)**: The

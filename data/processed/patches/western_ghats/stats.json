@@ -1,0 +1,49 @@
+{
+  "region_id": "western_ghats",
+  "total_patches": 625,
+  "split_counts": {
+    "train": 437,
+    "val": 93,
+    "test": 95
+  },
+  "class_dist": {
+    "Unchanged_NF": {
+      "count": 4459387,
+      "percentage": 10.89
+    },
+    "Stable_Forest": {
+      "count": 34836207,
+      "percentage": 85.05
+    },
+    "Forest_Loss": {
+      "count": 686989,
+      "percentage": 1.68
+    },
+    "Forest_Gain": {
+      "count": 977417,
+      "percentage": 2.39
+    }
+  },
+  "class_weights": [
+    0.3283630907535553,
+    0.04203380271792412,
+    2.131472587585449,
+    1.498130440711975
+  ],
+  "patch_size": 256,
+  "n_bands": 12,
+  "band_names": [
+    "SAR_VV",
+    "SAR_VH",
+    "SAR_ratio",
+    "OPT_B2",
+    "OPT_B3",
+    "OPT_B4",
+    "OPT_B8",
+    "OPT_B11",
+    "OPT_B12",
+    "NDVI",
+    "EVI",
+    "NDWI"
+  ]
+}

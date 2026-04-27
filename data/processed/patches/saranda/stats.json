@@ -1,0 +1,49 @@
+{
+  "region_id": "saranda",
+  "total_patches": 725,
+  "split_counts": {
+    "train": 507,
+    "val": 108,
+    "test": 110
+  },
+  "class_dist": {
+    "Unchanged_NF": {
+      "count": 17261252,
+      "percentage": 36.33
+    },
+    "Stable_Forest": {
+      "count": 27118495,
+      "percentage": 57.08
+    },
+    "Forest_Loss": {
+      "count": 1445396,
+      "percentage": 3.04
+    },
+    "Forest_Gain": {
+      "count": 1688457,
+      "percentage": 3.55
+    }
+  },
+  "class_weights": [
+    0.16805428266525269,
+    0.10696859657764435,
+    2.0069429874420166,
+    1.7180343866348267
+  ],
+  "patch_size": 256,
+  "n_bands": 12,
+  "band_names": [
+    "SAR_VV",
+    "SAR_VH",
+    "SAR_ratio",
+    "OPT_B2",
+    "OPT_B3",
+    "OPT_B4",
+    "OPT_B8",
+    "OPT_B11",
+    "OPT_B12",
+    "NDVI",
+    "EVI",
+    "NDWI"
+  ]
+}

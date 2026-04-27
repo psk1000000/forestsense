@@ -1,0 +1,26 @@
+### Interpretation of the RAG Graph Overlay Image
+
+#### Panel 5: RAG Graph Overlay Image
+
+The RAG graph overlay image provides a visual representation of the forest adjacency relationships between the two time points (T1 and T2) in the Saranda region. The nodes in the graph represent different forest patches, and the edges represent the adjacency between these patches. The color coding of the nodes and edges helps in identifying the spatial structure of the forest change.
+
+#### Quantitative Metrics
+
+#### Total Forest Area: 44048.7 ha
+- **Forest Loss**: 3100.1 ha
+- **Forest Gain**: 6014.1 ha
+- **Net Change**: 2914.0 ha
+- **Fragmentation Index**: 0.643 (higher = more fragmented)
+- **Largest Patch Index (LPI)**: 0.772 (closer to 1.0 = contiguous)
+
+#### Ecological Health
+
+#### Interpretation of the Quantitative Metrics
+
+The quantitative metrics provide insights into the ecological health of the Saranda region:
+
+1. **Total Forest Area**: The total forest area remains relatively stable at 44048.7 ha, indicating that the forest cover has not significantly changed over the two years.
+2. **Forest Loss**: The forest loss is relatively low at 3100.1 ha, suggesting that the forest cover has not been significantly reduced.
+3. **Forest Gain**: The forest gain is higher at 6014.1 ha, indicating that the forest cover has been significantly increased over the two years.
+4. **Net Change**: The net change in forest area is positive at 2914.0 ha, indicating that the forest cover has increased by 2914.0 ha over the two years.
+5. **Fragmentation Index**: The fragmentation index is relatively low at 0.

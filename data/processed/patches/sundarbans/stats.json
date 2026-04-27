@@ -1,0 +1,49 @@
+{
+  "region_id": "sundarbans",
+  "total_patches": 825,
+  "split_counts": {
+    "train": 577,
+    "val": 123,
+    "test": 125
+  },
+  "class_dist": {
+    "Unchanged_NF": {
+      "count": 29109066,
+      "percentage": 53.84
+    },
+    "Stable_Forest": {
+      "count": 22081133,
+      "percentage": 40.84
+    },
+    "Forest_Loss": {
+      "count": 980676,
+      "percentage": 1.81
+    },
+    "Forest_Gain": {
+      "count": 1896325,
+      "percentage": 3.51
+    }
+  },
+  "class_weights": [
+    0.08447518199682236,
+    0.11136175692081451,
+    2.5074477195739746,
+    1.2967153787612915
+  ],
+  "patch_size": 256,
+  "n_bands": 12,
+  "band_names": [
+    "SAR_VV",
+    "SAR_VH",
+    "SAR_ratio",
+    "OPT_B2",
+    "OPT_B3",
+    "OPT_B4",
+    "OPT_B8",
+    "OPT_B11",
+    "OPT_B12",
+    "NDVI",
+    "EVI",
+    "NDWI"
+  ]
+}

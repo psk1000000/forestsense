@@ -1,0 +1,35 @@
+{
+  "western_ghats": {
+    "total_forest_ha": 57252.42,
+    "mean_patch_size_ha": 274.8907237928909,
+    "largest_patch_idx": 0.9708956758975988,
+    "fragmentation_idx": 0.07470451741473015,
+    "edge_density": 0.08463758718254996,
+    "forest_loss_ha": 1903.4799999999998,
+    "forest_gain_ha": 1487.6299999999997,
+    "net_change_ha": -415.85,
+    "n_test_patches": 95
+  },
+  "sundarbans": {
+    "total_forest_ha": 31573.68,
+    "mean_patch_size_ha": 43.876045482367594,
+    "largest_patch_idx": 0.4900800121526228,
+    "fragmentation_idx": 0.635801308382611,
+    "edge_density": 0.1848375942317643,
+    "forest_loss_ha": 3096.12,
+    "forest_gain_ha": 6383.43,
+    "net_change_ha": 3287.31,
+    "n_test_patches": 125
+  },
+  "saranda": {
+    "total_forest_ha": 44048.66000000001,
+    "mean_patch_size_ha": 18.206385863050137,
+    "largest_patch_idx": 0.7722554353465554,
+    "fragmentation_idx": 0.642591926925733,
+    "edge_density": 0.21378285082121412,
+    "forest_loss_ha": 3100.1,
+    "forest_gain_ha": 6014.060000000001,
+    "net_change_ha": 2913.96,
+    "n_test_patches": 110
+  }
+}
