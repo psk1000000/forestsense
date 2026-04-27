@@ -41,15 +41,27 @@ pip install gdown gradio qwen-vl-utils scikit-image
 
 ### 🤖 Step 5: Download Model Weights
 
-```bash id="vfxk5h"
+You can download the trained model from the link below:
+
+👉 https://drive.google.com/file/d/1f0oTbxYaSuEyP2SHmQbwZHMW6Es7RLFX/view?usp=sharing
+
+---
+
+### ⚡ Quick Download (Recommended)
+
+```bash id="g9m2yt"
+pip install gdown
 gdown https://drive.google.com/uc?id=1f0oTbxYaSuEyP2SHmQbwZHMW6Es7RLFX -O /content/drive/MyDrive/forestsense/best_model.pth
 ```
+
+---
 
 📁 Model file must be located at:
 
 ```
 /content/drive/MyDrive/forestsense/best_model.pth
 ```
+
 
 ---
 
